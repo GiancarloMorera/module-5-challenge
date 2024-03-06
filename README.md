@@ -9,7 +9,7 @@ https://GiancarloMorera.github.io/module-5-challenge/
 
 This is a screenshot of the website at the current time:
 
-![website screenshot](./assets/images/module-5-challenge.png)
+![website screenshot](./assets/images/website-screenshot.png)
 
 ## Sources
 
